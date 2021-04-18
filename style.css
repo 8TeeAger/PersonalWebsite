@@ -1,0 +1,151 @@
+hr {
+  background-color: blue;
+}
+
+h1 {
+  background-color: grey;
+}
+
+#student{
+  color:grey;
+}
+
+.menu {
+  padding: 10px;
+  background-color: rgba(120, 120, 120, 0.7);
+  color: #f1f1f1;
+  position: fixed;
+  top: 0;
+}
+
+.menu_right {
+  position: absolute;
+  right: 0px;
+  padding: 10px 16px;
+  background-color: rgba(120, 120, 120, 0.7);
+  color: #f1f1f1;
+  position: fixed;
+  top: 0;
+}
+
+.chosen_page {
+  color: white;
+}
+
+.word {
+  color: cyan;
+  font-weight: bold;
+}
+
+.education {
+  color: #E9967A;
+  padding: 10px;
+  margin: 10px;
+}
+
+.volleyball {
+  color: #9370DB;
+  padding: 10px;
+  margin: 10px;
+}
+
+.games {
+  color: #99ddff;
+  padding: 10px;
+  margin: 10px;
+}
+
+#text {
+  color: #FFEFD5;
+  display: contents;
+}
+
+#review_text {
+  color: yellow;
+  text-align: center;
+}
+
+.form {
+  color: white;
+  text-align: center;
+}
+
+#fname {
+  height: 30px;
+  width: 200px;
+  background-color: #B0C4DE;
+}
+
+#lname {
+  height: 30px;
+  width: 200px;
+  background-color: #87CEFA;
+}
+
+#rate {
+  height: 100px;
+  width: 500px;
+}
+
+#submit {
+  height: 40px;
+  width: 60px;
+  background-color: gold;
+}
+
+#contacts {
+  color: #C519FF;
+}
+
+.address {
+  text-align: right;
+  color: white;
+}
+
+.page {
+  color:rgb(6, 254, 241 );
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  border-style: dashed;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 3px;
+  border: dashed;
+}
+
+#hr {
+  border-style: dotted;
+}
+
+#list {
+  color: white;
+  position: relative;
+  left: 300px;
+}
+
+.about_me {
+  font-size: 20px;
+  position: relative;
+  right: 200px;
+}
+
+#my_img {
+  float: left;
+  position: relative;
+  left: 200px;
+  border-style: solid;
+  border-color: white;
+}
+
+#oogway {
+  border-style:groove;
+}
+
+#hp_hr {
+  clear: both;
+}
